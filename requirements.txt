@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+statsmodels
+pmdarima
+scikit-learn
+torch
+transformers==4.40.1
+gluonts
+chronos-forecasting
+uni2ts
+huggingface_hub
